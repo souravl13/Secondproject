@@ -1,0 +1,3 @@
+Welcome to our application.
+This is the starting point of the app.
+Thank you for using our software.
